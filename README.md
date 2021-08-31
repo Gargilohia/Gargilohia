@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Gargi-Lohia
-- 👀 I’m interested in Web development, Datascience and I sometimes take an interest in Debating and public speaking activities.  
+- 👀 I’m interested in Web development, Datascience and I also take an interest in Debating and public speaking activities.  
 - 🌱 I’m currently learning the fine art of Web Development :stuck_out_tongue: while strengthening my grasp on Data Structures and Algorithms
