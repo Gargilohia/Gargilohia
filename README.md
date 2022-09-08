@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Gargi-Lohia
 - 👀 I’m interested in Web development and I also take an interest in Debating and public speaking activities.  
-- 🌱 I’m currently still learning the fine art of Web Development (while getting to explore a lot of other fields thanks to my undergrad) :stuck_out_tongue: while strengthening my grasp on Data Structures and Algorithms
+- 🌱 I’m currently interested in the world of Web3 and web development (while getting to explore a lot of other fields thanks to my undergrad) :stuck_out_tongue: while strengthening my grasp on Data Structures and Algorithms
