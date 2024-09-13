@@ -25,6 +25,8 @@ however, here's the tech stack I am working with at the job I do right now:
 - **Frontend**: `React`, `JavaScript`
 - **Backend**: `Flask`, `Python`, `Node.js`
 - **AI**: `Azure AI Suite`, `RAG System`
+- 🛠️ Other Tools I like using
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 
 ## 🎨 Fun Fact
 - I’m learning Japanese and currently at N3 level!
