@@ -26,4 +26,19 @@ however, here's the tech stack I am working with at the job I do right now:
 - **Backend**: `Flask`, `Python`, `Node.js`
 - **AI**: `Azure AI Suite`, `RAG System`
 
+## 🎨 Fun Fact
+- I’m learning Japanese and currently at N3 level!
+- I enjoy cooking and working out in my free time.
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Gargilohia&show_icons=true&theme=radical)
+
+## 💻 Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gargilohia&layout=compact&theme=radical)
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gargi-lohia/)
+
 Feel free to reach out if you want to chat AI, web apps, or just want to test my fluency in English or Japanese! 🈚
+
+
