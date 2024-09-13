@@ -20,7 +20,7 @@ Lately, I've been diving head-first into the world of **AI** (yes, the fancy stu
 
 ## Tech stack:
 I am a BTech graduate, so I have at least touched a lot of languages and actually worked with quite a bit of them too. 
-(Include Assembly language, that thing got me working late nights.
+(Include Assembly language, that thing got me working late nights)
 however, here's the tech stack I am working with at the job I do right now:
 - **Frontend**: `React`, `JavaScript`
 - **Backend**: `Flask`, `Python`, `Node.js`
