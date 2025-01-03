@@ -6,13 +6,6 @@ I'm a developer who's been in the game for a bit now. I graduated with a Bachelo
 - Cranking out **APIs** 🔗
 - Battling some wild **layout bugs** 🐞
 
-Lately, I've been diving head-first into the world of **AI** (yes, the fancy stuff). Specifically, I've worked with **Generative AI** and meddled with **Azure's AI development suite**. I even built a **RAG system** at work! If you want the juicy details, you will have to catch me when I am in my best mood 🍰.
-
-## What I bring to the table:
-- Endured more than **8-hour workdays** at a desk job ⌨️
-- Survived endless meetings and precisely documented every task 📄
-- Logged my work by the hour (true story) 🕒
-- Genuinely in it for the learning (but the paycheck doesn't hurt 💰)
 
 ## Languages:
 - **English** (Business level fluent)
