@@ -17,6 +17,7 @@ Lately, I've been diving head-first into the world of **AI** (yes, the fancy stu
 ## Languages:
 - **English** (Business level fluent)
 - **Japanese** (ビジネスレベルで日本語もペラペラです！)
+- **Hindi** , **Tamil**
 
 ## Tech stack:
 I am a BTech graduate, so I have at least touched a lot of languages and actually worked with quite a bit of them too. 
