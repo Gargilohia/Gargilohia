@@ -34,7 +34,7 @@ however, here's the tech stack I am working with at the job I do right now:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gargilohia&layout=compact&theme=radical)
 
 ## How active I have been here
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gargilohia&theme=default&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gargilohia)](https://git.io/streak-stats)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gargi-lohia/)
