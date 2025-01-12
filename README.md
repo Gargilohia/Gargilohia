@@ -40,5 +40,6 @@ however, here's the tech stack I am working with at the job I do right now:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gargi-lohia/)
 
 Feel free to reach out if you want to chat AI, web apps, or just want to test my fluency in English or Japanese! 🈚
+[Portfolio](https://gargilohia.github.io/Portfolio/)
 
 
